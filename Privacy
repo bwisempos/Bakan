@@ -1,0 +1,37 @@
+POLÍTICA DE PRIVACIDAD de Bakan
+
+Última modificación: 27/07/2021
+
+El respeto a tu privacidad está totalmente garantizado.
+
+1 - A través de esta aplicación no se recaban datos de carácter personal de los usuarios.
+2 - No se registran direcciones IP.
+3 - No se accede a las cuentas de correo de los usuarios.
+4 - La aplicación no guarda datos ni hace seguimientos sobre tiempos y horarios de utilización.
+5 - La aplicación no guarda información relativa a tu dispositivo como, por ejemplo, fallos, actividad del sistema, ajustes del hardware,
+tipo de navegador, idioma del navegador.
+6 - La aplicación no accede a tus contactos ni agendas.
+7 - La aplicación solicita permisos de ubicacion para una mejor experiencia en reconocimiento de ubicacion geografica.
+8 - Cargos y cuotas:
+Cualquier uso de esta aplicación es totalmente gratuito.
+9 - Cambios en nuestra Política de Privacidad:
+Nuestra Política de Privacidad puede cambiar de vez en cuando.
+Publicaremos cualquier cambio de política de privacidad en esta página, por lo que debe revisarla periódicamente.
+10 - La aplicación solicita permisos de llamadas para contacto con nuestros clientes.
+11 - La aplicación solicita permisos de multimedia para impresiones de recibos transacionales de nuestros clientes.
+12 - Contacto:
+Si tiene alguna pregunta sobre esta Política o para informar de cualquier violación de la Política, visita nuesta pagina 
+it@b-wise.com.ec
+
+
+Permisos Solicitados dentro de la aplicación
+<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
